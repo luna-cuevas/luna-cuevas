@@ -1,5 +1,5 @@
-- 🔭 I’m currently working on an update to a client's website, www.jazzandprint.com 
-- 🌱 I’m currently learning PHP and React development
+- 🔭 I’m currently working with an agile team on https://www.dollskill.com/
+- 🌱 I’m currently learning Next.js and Magento
 - 👯 I’m looking to collaborate on Frontend and Fullstack projects.
 - 🤔 I’m looking for help with contributing to open source projects
 - 💬 Ask me about my background in graphic design!
