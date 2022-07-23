@@ -1,5 +1,5 @@
-- 🔭 I’m currently working with an agile team on https://www.dollskill.com/
-- 🌱 I’m currently learning Next.js and Magento
+- 🔭 I’m currently working freelance through upwork: https://www.upwork.com/freelancers/lunacuevas
+- 🌱 I’m currently learning Shopify Hydrogen
 - 👯 I’m looking to collaborate on Frontend and Fullstack projects.
 - 🤔 I’m looking for help with contributing to open source projects
 - 💬 Ask me about my background in graphic design!
